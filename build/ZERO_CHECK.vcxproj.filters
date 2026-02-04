@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Srushti Satte\Desktop\github repo\Blackhole-Simulation\build\CMakeFiles\540781a7f91a33e934dab662133cc429\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2C144B87-FFDF-308A-BFEF-1EF63170FBB6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

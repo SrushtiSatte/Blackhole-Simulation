@@ -1,0 +1,3 @@
+C:/Users/Srushti Satte/Desktop/github repo/Blackhole-Simulation/build/CMakeFiles/BlackHole3D.dir
+C:/Users/Srushti Satte/Desktop/github repo/Blackhole-Simulation/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Srushti Satte/Desktop/github repo/Blackhole-Simulation/build/CMakeFiles/ZERO_CHECK.dir
